@@ -62,7 +62,7 @@ When I am not programming, you'll find me:
 - **Nini**: My beloved, my favorite distro, the indispensable pointer to the core function that orchestrates my life's logic.
 - **Tibik**: My soft plush frog, always there to listen and keep secrets safe amidst lines of code.
 
-## Let's build together
+## Let's Build Together
 ```python
 me.is_open(to="Collaborating on exciting projects.")
 if you.are_interested() and project.is_exciting():
