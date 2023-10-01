@@ -38,23 +38,22 @@ while alive:
   - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## Languages
-- **Natural Languages:**
-  - **Native:**
-    - 🇩🇪 German
-    - 🇷🇺 Russian
-  - **Fluent:**
-    - 🇺🇸 English
-  - **Foreign:**
-    - 🇫🇷 French
-  - **Learning:**
-    - 🇹🇷 Turkish
-    - 🇬🇪 Georgian
+- **Native:**
+  - 🇩🇪 German
+  - 🇷🇺 Russian
+- **Fluent:**
+  - 🇺🇸 English
+- **Foreign:**
+  - 🇫🇷 French
+- **Learning:**
+  - 🇹🇷 Turkish
+  - 🇬🇪 Georgian
 
 ## Hobbies
 When I am not programming, you'll find me:
 - ✈️ Traveling the world
 - 🌿 Exploring nature
-- 📼 Filming & Editing videos
+- 📼 Filming & editing videos
 - 📚 Studying programming
 - 🎧 Listening to music
 
