@@ -1,6 +1,6 @@
-# Welcome to HugeFrog24!
+# About Me
 
-I am a software developer who believes in the iterative process of learning, adapting, and growing.
+I am HugeFrog24, a software developer who believes in the iterative process of learning, adapting, and growing.
 
 My programming journey is much like a script running through various scenarios, handling exceptions, and continuously evolving. Check out the snippet below to get a sense of my philosophy:
 ```python
