@@ -1,8 +1,9 @@
 # About Me
 
-I am HugeFrog24, a software developer who believes in the iterative process of learning, adapting, and growing.
+Hello! I'm HugeFrog24, a software developer who believes in the iterative process of learning, adapting, and growing. Kindness is a philosophy I hold close - show me some, and luck might just be on your side.
 
-My programming journey is much like a script running through various scenarios, handling exceptions, and continuously evolving. Check out the snippet below to get a sense of my philosophy:
+My life's journey mirrors a script running through various scenarios, handling exceptions, and continuously evolving. It's similar to a printer queue - tasks, messages, or issues that come my way are always addressed in order, never skipped. Here's a code snippet to paint the picture:
+
 ```python
 while alive:
   try:
@@ -62,6 +63,8 @@ When I am not programming, you'll find me:
 - **Tibik**: My soft plush frog, always there to listen and keep secrets safe amidst lines of code.
 
 ## Let's Build Together
+I'm always on the lookout for new challenges and collaborations. Drawing inspiration from the likes of Musk and Torvalds, I'm enthusiastic about pushing boundaries.
+
 ```python
 me.is_open(to="Collaborating on exciting projects.")
 if you.are_interested() and project.is_exciting():
