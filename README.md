@@ -40,13 +40,15 @@ while alive:
 ## Languages
 - **Natural Languages:**
   - **Native:**
-    - 🇩🇪 German, 🇷🇺 Russian
+    - 🇩🇪 German
+    - 🇷🇺 Russian
   - **Fluent:**
     - 🇺🇸 English
   - **Foreign:**
     - 🇫🇷 French
   - **Learning:**
-    - 🇹🇷 Turkish, 🇬🇪 Georgian
+    - 🇹🇷 Turkish
+    - 🇬🇪 Georgian
 
 ## Hobbies
 When I am not programming, you'll find me:
