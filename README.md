@@ -57,6 +57,7 @@ When I am not programming, you'll find me:
 - 📚 Studying programming
 - 🎧 Listening to music
 - 🔨 Breaking & fixing tech
+- 💾 Data hoarding
 
 ## Special Mentions
 - **Tibik**: My soft plush frog, always there to listen and keep secrets safe amidst lines of code.
