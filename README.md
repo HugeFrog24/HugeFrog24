@@ -24,13 +24,13 @@ while alive:
 ## Tech Stack
 
 - **Operating Systems:**
-  - ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-333333?style=flat&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
+  - ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-333333?style=flat&logo=linux) ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
 
 - **Programming Languages:**
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+  - ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 - **IDEs:**
-  - ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+  - ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
  
 - **Web Development:**
   - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -56,6 +56,7 @@ When I am not programming, you'll find me:
 - 📼 Filming & editing videos
 - 📚 Studying programming
 - 🎧 Listening to music
+- 🔨 Breaking & fixing tech
 
 ## Special Mentions
 - **Tibik**: My soft plush frog, always there to listen and keep secrets safe amidst lines of code.
