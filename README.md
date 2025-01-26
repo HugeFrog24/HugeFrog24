@@ -1,8 +1,9 @@
-# Welcome to HugeFrog24!
+# About Me
 
-I am a software developer who believes in the iterative process of learning, adapting, and growing.
+Hello! I'm HugeFrog24, a software developer who believes in the iterative process of learning, adapting, and growing. Kindness is a philosophy I hold close - show me some, and luck might just be on your side.
 
-My programming journey is much like a script running through various scenarios, handling exceptions, and continuously evolving. Check out the snippet below to get a sense of my philosophy:
+My life's journey mirrors a script running through various scenarios, handling exceptions, and continuously evolving. It's like to a printer queue - tasks, messages, or issues that come my way are always addressed in order, never skipped. Here's a code snippet to paint the picture:
+
 ```python
 while alive:
   try:
@@ -23,44 +24,56 @@ while alive:
 ## Tech Stack
 
 - **Operating Systems:**
-  - ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-333333?style=flat&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
+  - ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-333333?style=flat&logo=linux) ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
 
 - **Programming Languages:**
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+  - ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 - **IDEs:**
-  - ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+  - ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
  
 - **Web Development:**
   - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 - **Frameworks:**
-  - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  - ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Next.js](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## Languages
-- **Natural Languages:**
-  - **Native:**
-    - 🇩🇪 German, 🇷🇺 Russian
-  - **Fluent:**
-    - 🇺🇸 English
-  - **Foreign:**
-    - 🇫🇷 French
-  - **Learning:**
-    - 🇹🇷 Turkish, 🇬🇪 Georgian
+- **Native:**
+  - 🇩🇪 German
+  - 🇷🇺 Russian
+- **Fluent:**
+  - 🇺🇸 English
+- **Foreign:**
+  - 🇫🇷 French
+- **Learning:**
+  - 🇹🇷 Turkish
 
 ## Hobbies
-When I am not programming, you'll find me:
 - ✈️ Traveling the world
 - 🌿 Exploring nature
-- 📼 Filming & Editing videos
+- 📼 Filming & editing videos
 - 📚 Studying programming
 - 🎧 Listening to music
+- 🔨 Breaking & fixing tech
+- 💾 Data hoarding
+
+## Self-Hosted
+- 📺 **PeerTube**: Running 2 instances for video hosting and streaming
+- 🐘 **Mastodon**: Decentralized social networking
+- ☁️ **NextCloud**: 2 instances for cloud storage and collaboration
+- 📧 **MailCow**: Complete email server solution
+- 🖥️ **RustDesk**: Self-hosted remote desktop infrastructure
+- 🔧 **Portainer**: Container management
+- 📊 **Grafana**: System monitoring and analytics
+Plus various other web applications and services.
 
 ## Special Mentions
-- **Nini**: My beloved, my favorite distro, the indispensable pointer to the core function that orchestrates my life's logic.
 - **Tibik**: My soft plush frog, always there to listen and keep secrets safe amidst lines of code.
 
-## Let's build together
+## Let's Build Together
+I'm always on the lookout for new challenges and collaborations. Drawing inspiration from the likes of Musk and Torvalds, I'm enthusiastic about pushing boundaries.
+
 ```python
 me.is_open(to="Collaborating on exciting projects.")
 if you.are_interested() and project.is_exciting():
