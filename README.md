@@ -2,7 +2,7 @@
 
 Hello! I'm HugeFrog24, a software developer who believes in the iterative process of learning, adapting, and growing. Kindness is a philosophy I hold close - show me some, and luck might just be on your side.
 
-My life's journey mirrors a script running through various scenarios, handling exceptions, and continuously evolving. It's like to a printer queue - tasks, messages, or issues that come my way are always addressed in order, never skipped. Here's a code snippet to paint the picture:
+My life mirrors a script running through various scenarios, handling exceptions, and continuously evolving. It's like to a printer queue - tasks, messages, or issues that come my way are always addressed in order, never skipped. Here's a code snippet to paint the picture:
 
 ```python
 while alive:
